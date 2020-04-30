@@ -1,0 +1,15 @@
+#mycanvas {
+  background: #ffffff;
+  display: block;
+  position: absolute;
+  width: 800px;
+  height: 600px;
+  left: 50%;
+  top: 50%;
+  margin-left: -400px; /* This is half the width */
+  margin-top: -300px; /* This is half the height */
+}
+
+body{
+  background: #000000;
+}
